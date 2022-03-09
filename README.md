@@ -9,6 +9,13 @@ This dataset was created for a course at the University of Washington iSchool du
 * Contact
 
 # Naming
+Naming for files is as follows: 
+
+year_ShortDescription
+
+Where year is the year data was reported and ShortDescription is a brief description of the data being viewed. 
+
+This naming convention was chosen as it immediately provides information on the type of data being viewed. Should this data be further explored past the years previously researched this provides information on how these files relate to other files, and allows for organization of data by years researched. 
 # Data Dictionary
 |   Variable             |   Measurement Unit  |   Allowed Values                                    |   Description                                                                                                                                             |
 |------------------------|---------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
