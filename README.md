@@ -11,7 +11,7 @@ This dataset was created for a course at the University of Washington iSchool du
 # Naming
 Naming for files is as follows: 
 
-year_ShortDescription
+*year_ShortDescription*
 
 Where year is the year data was reported and ShortDescription is a brief description of the data being viewed. 
 
