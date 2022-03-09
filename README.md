@@ -1,6 +1,6 @@
 # Collection-and-Circulation-Analysis
 # Readme
-This dataset was created for a course at the University of Washington iSchool during the Winter quater of 2022. It is a breakdown of collection and circulation analysis in order to understand usage patterns 
+This dataset was created for a course at the University of Washington iSchool during the Winter quater of 2022. This dataset provides users with a breakdown of the usage pattern of books in academic libraries and is limited to the use of books and manuscripts. The intended audience is municipal policymakers. The dataset was created in 2011 and contains data from 2007-2008.
 # Table of Contents
 * Naming
 * Data Dictionary
@@ -25,4 +25,6 @@ This dataset was created for a course at the University of Washington iSchool du
 |   Total Circulation    |   Numeric           |   Any number                                        |   The total number of times the item has circulated since being entered into the system.                                                                  |
 |   Annual Circulation   |   Numeric           |   Any number                                        |   The number of times the item circulated in the year observed.                                                                                           |# Metadata
 # Security
+This data is freely available to the public.
 # Contact
+Olivia Coefield, oc22@uw.edu
