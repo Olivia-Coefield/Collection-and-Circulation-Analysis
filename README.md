@@ -1,6 +1,8 @@
 # Collection-and-Circulation-Analysis
 # Readme
 This dataset was created for a course at the University of Washington iSchool during the Winter quater of 2022. This dataset provides users with a breakdown of the usage pattern of books in academic libraries and is limited to the use of books and manuscripts. The intended audience is municipal policymakers. The dataset was created in 2011 and contains data from 2007-2008.
+
+The dataset is in two formats, .csv and .xlxs. There is one table with no duplicate variables, though not all fields have been filled. 
 # Table of Contents
 * [Naming](https://github.com/Olivia-Coefield/Collection-and-Circulation-Analysis/blob/main/README.md#naming)
 * [Data Dictionary](https://github.com/Olivia-Coefield/Collection-and-Circulation-Analysis/edit/main/README.md#data-dictionary)
